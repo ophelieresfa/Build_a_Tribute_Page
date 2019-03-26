@@ -19,6 +19,10 @@ h2 {
   padding: 10px;
 }
 
+h3 {
+  padding-top: 25px;
+}
+
 #img-div {
   background-color: white;
   width: 95%;
