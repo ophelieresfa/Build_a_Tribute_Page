@@ -19,6 +19,11 @@ h2 {
   padding: 10px;
 }
 
+#img-div {
+  background-color: white;
+  width: 95%;
+}
+
 img {
   max-width: 100%;
   height: auto;
