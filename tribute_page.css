@@ -5,3 +5,8 @@
 .marge_auto {
   margin: auto;
 }
+
+main {
+  background-color: #eeeeee;
+  font-family: sans-serif;
+}
