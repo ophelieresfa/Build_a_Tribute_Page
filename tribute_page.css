@@ -41,3 +41,7 @@ ul {
   max-width: 60%;
   text-align: justify;
 }
+
+li {
+  padding: 10px;
+}
