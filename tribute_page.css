@@ -36,3 +36,8 @@ img {
 figcaption {
   padding: 20px;
 }
+
+ul {
+  max-width: 60%;
+  text-align: justify;
+}
