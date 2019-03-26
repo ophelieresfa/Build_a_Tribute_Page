@@ -10,3 +10,7 @@ main {
   background-color: #eeeeee;
   font-family: sans-serif;
 }
+
+h2 {
+  padding: 10px;
+}
